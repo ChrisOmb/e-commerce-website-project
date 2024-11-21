@@ -9,7 +9,7 @@ Vendors can manage their products and track orders, while buyers can browse prod
 2. [Features](#features)
    - [Vendor Features](#vendor-features)
    - [Buyer Features](#buyer-features)
-   - [Admin Panel (Optional)](#admin-panel-optional)
+   - [Admin Panel (Optional)](#admin-panel)
 3. [Technologies Used](#technologies-used)
 4. [Installation Guide](#installation-guide)
    - [Clone the Repository](#clone-the-repository)
